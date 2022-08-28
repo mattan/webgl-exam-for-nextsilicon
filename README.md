@@ -1,2 +1,2 @@
 # webgl-exam-for-nextsilicon
-exam for nextsilicon
+ללחוץ על מנורה כדי לכבות אותה
